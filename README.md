@@ -20,7 +20,7 @@ $ npm install -g @iterativa/cli
 $ iterativa COMMAND
 running command...
 $ iterativa (--version)
-@iterativa/cli/0.0.0 linux-x64 node-v23.3.0
+@iterativa/cli/0.0.0 linux-x64 node-v20.18.0
 $ iterativa --help [COMMAND]
 USAGE
   $ iterativa COMMAND
