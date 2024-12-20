@@ -8,6 +8,7 @@
   },
   "bugs": "https://github.com/emadridm/iterativa-cli/issues",
   "dependencies": {
+    "@iterativa/core": "github:emadridm/iterativa-core",
     "@oclif/core": "^4",
     "@oclif/plugin-help": "^6",
     "@oclif/plugin-plugins": "^5"
