@@ -20,7 +20,7 @@ $ npm install -g @iterativa/cli
 $ iterativa COMMAND
 running command...
 $ iterativa (--version)
-@iterativa/cli/0.0.0 linux-x64 node-v20.18.0
+@iterativa/cli/0.0.1 linux-x64 node-v20.18.0
 $ iterativa --help [COMMAND]
 USAGE
   $ iterativa COMMAND
@@ -65,7 +65,7 @@ EXAMPLES
   hello friend from oclif! (./src/commands/hello/index.ts)
 ```
 
-_See code: [src/commands/hello/index.ts](https://github.com/emadridm/iterativa-cli/blob/v0.0.0/src/commands/hello/index.ts)_
+_See code: [src/commands/hello/index.ts](https://github.com/emadridm/iterativa-cli/blob/v0.0.1/src/commands/hello/index.ts)_
 
 ## `iterativa hello world`
 
@@ -83,7 +83,7 @@ EXAMPLES
   hello world! (./src/commands/hello/world.ts)
 ```
 
-_See code: [src/commands/hello/world.ts](https://github.com/emadridm/iterativa-cli/blob/v0.0.0/src/commands/hello/world.ts)_
+_See code: [src/commands/hello/world.ts](https://github.com/emadridm/iterativa-cli/blob/v0.0.1/src/commands/hello/world.ts)_
 
 ## `iterativa help [COMMAND]`
 
